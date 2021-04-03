@@ -1,0 +1,38 @@
+body {
+    margin     : 0;
+    padding    : 0;
+    font-family: Calibri, Arial, Helvetica, sans-serif;
+}
+
+.logoctd{
+    
+    width: 300px;
+    height: auto;
+
+    vertical-align: middle;
+}
+
+
+header {
+    text-align: center;
+}
+
+h1 {
+    background-color: #8367e8bd;
+    
+    color           : white;
+    text-transform  : uppercase;
+}
+
+main {
+    position=absolute;
+    top          : 50%;
+    left         : 50%;
+    padding      : 20px 277px 50px 277px;
+}
+
+h2 {
+    color           : #8367e8;
+    text-transform  : uppercase;
+}
+
