@@ -36,3 +36,6 @@ h2 {
     text-transform  : uppercase;
 }
 
+ul li a{
+    text-decoration: none;
+}
